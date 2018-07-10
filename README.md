@@ -8,7 +8,7 @@ Tutorial: [How to create a Realtime Facebook Messenger Chatbot with Node.js and 
 
 1. Clone this repository and cd into it.
 2. Execute npm install to download dependencies.
-3. See tutorial for notes on how to get the required keys from Dialogflow and Facebook
+3. See [tutorial](https://blog.pusher.com/facebook-chatbot-dialogflow) for notes on how to get the required keys from Dialogflow and Facebook
 
 ## Pre-requisites
 
