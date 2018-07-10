@@ -2,6 +2,8 @@
 
 A sample chatbot to show how to Natural Language Processing to a chatbot with the help of [Dialogflow](https://dialogflow.com)
 
+Tutorial: [How to create a Realtime Facebook Messenger Chatbot with Node.js and Dialogflow](https://blog.pusher.com/facebook-chatbot-dialogflow)
+
 ## Getting Started
 
 1. Clone this repository and cd into it.
